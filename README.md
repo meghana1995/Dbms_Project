@@ -12,4 +12,7 @@ We have uploaded createTable.sql and insertValues.sql in sql folder , which cont
 a)tables,constraint sql file is tableCreation.sql
 b)Queries for populating the tables with the sample data is demoData.sql
 
-Constraints file contains ER-diagram 
+ER-diagram 
+
+![image](https://github.com/meghana1995/Dbms_Project/assets/41367602/c7cbd4d8-e2ef-4bb0-9a6f-6280e4d63754)
+
